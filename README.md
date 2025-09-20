@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on improving my Vue.js and Nuxt skills
+- 🌱 I’m currently learning **React** to expand my front-end knowledge.
+- 👯 I’m looking to collaborate on Vue.js, Nuxt, or React projects.
+- 🤔 I’m looking for help with advanced patterns in Vue/Nuxt and React best practices.
+- 💬 Ask me about front-end development, Vue.js, Nuxt, or my journey learning React.
+- 📫 How to reach me: [asadeisa232@gmail.com] 
+
 <!--
 **asadeisa/asadeisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
