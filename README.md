@@ -11,9 +11,8 @@ Full-stack developer with a frontend foundation, now focused on **AI agent archi
 
 A knowledge-routing architecture for AI agents. Instead of giving agents more context, AKRS reduces their decision space before reasoning begins — so even small, inexpensive models can do reliable software engineering work.
 
-- Leader plans once. Worker executes many times.
-- Every file answers one purpose. Every layer answers one question.
-- No duplicated knowledge. No blind assumptions.
+- Finding knowledge in a large codebase shouldn't mean scanning everything blindly — like trying to find a friend in London by searching every street. You ask: which city? which neighborhood? which street? Then someone nearby points you to the door.
+- AKRS gives agents that same path: navigate step by step to exactly the right knowledge, then act. No wandering. No guessing.
 
 **Status: v0 — Specification phase** `Markdown workflow → CLI → Validation → MCP`
 
@@ -23,9 +22,8 @@ A knowledge-routing architecture for AI agents. Instead of giving agents more co
 
 **AI & Systems**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Architecture-6929c4?style=flat&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 **Frontend (where I started)**
 
@@ -38,8 +36,8 @@ A knowledge-routing architecture for AI agents. Instead of giving agents more co
 
 ## 💬 A Few Things I Believe
 
-- AI agents fail not because models are weak — they fail because the decision space is too large.
-- The best architecture makes the next step obvious.
+- We can't avoid AI assumptions — but we can try to narrow the space where they happen. Smaller decision space, more reliable outcome.
+- AI is a great companion on the journey — not a destination, and not a replacement. The best use of it is walking alongside, not handing over the wheel.
 - Planning and execution are different jobs. Mixing them is where most workflows break.
 
 ---
